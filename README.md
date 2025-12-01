@@ -33,7 +33,7 @@ VoiceTask is a **voice-first task management app** that uses AI to automatically
 
 ##  Try It Now
 
-**👉 [Launch Live Demo](https://voice-task.vercel.app/voicetask-free-mvp.html)**
+** [Launch Live Demo](https://voice-task.vercel.app/voicetask-free-mvp.html)**
 
 No installation, no signup, no credit card. Just click and start speaking!
 
@@ -176,16 +176,24 @@ Automatically detects:
 
 ### For Users
 ✅ **Fastest way to add tasks** - Just speak
+
 ✅ **No learning curve** - Natural language
+
 ✅ **Works anywhere** - Browser-based
+
 ✅ **Private & secure** - Local storage only
+
 ✅ **Free forever** - No subscription
 
 ### For Developers
 ✅ **Open source** - MIT License
+
 ✅ **Single file** - Easy to deploy
+
 ✅ **No backend** - Zero hosting costs
+
 ✅ **Modern code** - ES6+
+
 ✅ **Well documented** - Comments included
 
 ---
@@ -224,7 +232,7 @@ Automatically detects:
 We welcome contributions! Here's how:
 
 1.  Star this repository
-2.  Report bugs via [Issues](https://github.com/Zahra58E/voicetask-demo/issues)
+2.  Report bugs via [Issues](https://github.com/Zahra58E/VoiceTask-demo/issues)
 3.  Suggest features
 4.  Improve documentation
 5.  Submit pull requests (to private repo)
@@ -266,8 +274,8 @@ If you like VoiceTask, please:
 
 <div align="center">
 
-**Made with ❤️ by [Your Name](https://github.com/Zahra58)**
+**Made with ❤️ and coffee by [Zahra Etebari](https://github.com/Zahra58)**
 
-[🚀 Try Demo](https://your-demo-url.github.io/voicetask-demo) · [📖 Docs](#features) · [🐛 Issues](https://github.com/YOUR_USERNAME/voicetask-demo/issues)
+[ Try Demo](https://voice-task.vercel.app/voicetask-free-mvp.html) · [ Docs](#features) · [ Issues](https://github.com/Zahra58/VoiceTask-demo/issues)
 
 </div>
