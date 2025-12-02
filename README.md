@@ -1,6 +1,39 @@
 # 🎙️ VoiceTask - Voice-Powered Task Management
 
 <div align="center">
+<!-- LOGO WITH TAGLINE - Best for GitHub README -->
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/VoiceTask/main/assets/logo-tagline.png" alt="VoiceTask Logo" width="600"/>
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/badge/status-live-success?style=for-the-badge" alt="Status">  
+  <img src="https://img.shields.io/badge/version-1.0.0-blue?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License">
+  <img src="https://img.shields.io/badge/price-FREE-brightgreen?style=for-the-badge" alt="Price">
+</p>
+<!-- Tagline -->
+<h3>🎤 Speak Your Tasks. We Handle The Rest. </h3>
+<p>
+  <strong>VoiceTask</strong> is a revolutionary task manager that works entirely with your voice.<br/>
+  Just speak naturally, and our AI understands what you need done.
+</p>
+<!-- Live Demo Button -->
+<p>
+  <a href="https://voice-task.vercel.app">
+    <img src="https://img.shields.io/badge/_TRY_LIVE_DEMO-667eea?style=for-the-badge&logoColor=white" alt="Live Demo">
+  </a>
+  <a href="#features">
+    <img src="https://img.shields.io/badge/_FEATURES-764ba2?style=for-the-badge" alt="Features">
+  </a>
+  <a href="#getting-started">
+    <img src="https://img.shields.io/badge/_GET_STARTED-11998e?style=for-the-badge" alt="Get Started">
+  </a>
+</p>
+
+<!-- Demo GIF or Screenshot -->
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/VoiceTask/main/assets/demo.gif" alt="VoiceTask Demo" width="700"/>
+</div>
+
+<div align="center">
 
 ![VoiceTask Logo](https://via.placeholder.com/150x150/6366F1/FFFFFF?text=🎙️)
 
@@ -13,6 +46,50 @@
 
 </div>
 
+---
+✨ Features
+<table>
+<tr>
+<td width="50%">
+🎤 Voice First
+
+Natural speech recognition
+Works in Chrome, Edge, Safari
+Auto-stops after 10 seconds
+Tap to stop anytime
+
+</td>
+<td width="50%">
+ Smart AI
+
+Auto-categorizes tasks
+Detects priority levels
+Extracts due dates
+70% accuracy (free tier)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+ Works Everywhere
+
+100% client-side (no backend)
+Runs offline after first load
+Mobile responsive
+Cross-platform
+
+</td>
+<td width="50%">
+ Private & Secure
+
+All data stored locally
+No servers, no tracking
+No sign-up required
+Your data stays yours
+
+</td>
+</tr>
+</table>
 ---
 
 ##  What is VoiceTask?
